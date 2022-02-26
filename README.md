@@ -3,12 +3,12 @@
 ### 1
 ```shell
 > cd gir_dir
-> git clone https://xxx/xx/x
+> git clone [url]
 ```
 ### 2
 ```shell
 > cd git_dir
 > git init
-> git remote add origin https://xxx/xx/x
+> git remote add origin [url]
 > git pull --rebase origin master
 ```
